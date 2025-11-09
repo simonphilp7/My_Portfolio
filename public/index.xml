@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon Philp</title>
+    <link>//localhost:55972/</link>
+    <description>Recent content on Simon Philp</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Nov 2022 22:09:13 +0000</lastBuildDate>
+    <atom:link href="//localhost:55972/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:55972/about/</link>
+      <pubDate>Thu, 17 Nov 2022 22:09:13 +0000</pubDate>
+      <guid>//localhost:55972/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

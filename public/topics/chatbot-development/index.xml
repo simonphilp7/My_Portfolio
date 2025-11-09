@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chatbot Development on Simon Philp</title>
+    <link>//localhost:55972/topics/chatbot-development/</link>
+    <description>Recent content in Chatbot Development on Simon Philp</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:55972/topics/chatbot-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a Notes Chatbot</title>
+      <link>//localhost:55972/projects/notes_chatbot/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:55972/projects/notes_chatbot/</guid>
+      <description>I used the OpenAI Agents SDK to build a personal chatbot that reads and responds based on my notes. Streamlit handles the UI, making it easy to chat with my knowledge in real time.</description>
+    </item>
+  </channel>
+</rss>
