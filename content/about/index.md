@@ -15,7 +15,7 @@ aliases: "oka"
 
 Hey, I’m Simon Philp!
 
-I’m a professional data scientist specializing in AI and machine learning. I write about industry insights, tutorials, and best practices. Check out my projects in the tabs above.
+I’m a professional data scientist specializing in AI and machine learning. I write about industry insights, tutorials, and best practices. Check out my projects in the tab above.
 ## Contact
 
 - [Email: simonphilp27@gmail.com](mailto:simonphilp27@gmail.com)

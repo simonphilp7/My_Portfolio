@@ -2,143 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on Simon Philp</title>
-    <link>//localhost:55972/topics/</link>
+    <link>//localhost:1313/topics/</link>
     <description>Recent content in Topics on Simon Philp</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:55972/topics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Android</title>
-      <link>//localhost:55972/topics/android/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/android/</guid>
+      <title>AI Agents</title>
+      <link>//localhost:1313/topics/ai-agents/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/ai-agents/</guid>
       <description></description>
     </item>
     <item>
-      <title>Dart</title>
-      <link>//localhost:55972/topics/dart/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/dart/</guid>
+      <title>Chatbot Development</title>
+      <link>//localhost:1313/topics/chatbot-development/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/chatbot-development/</guid>
       <description></description>
     </item>
     <item>
-      <title>Flutter</title>
-      <link>//localhost:55972/topics/flutter/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/flutter/</guid>
+      <title>Knowledge Management</title>
+      <link>//localhost:1313/topics/knowledge-management/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/knowledge-management/</guid>
       <description></description>
     </item>
     <item>
-      <title>Non-Profit</title>
-      <link>//localhost:55972/topics/non-profit/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/non-profit/</guid>
+      <title>Streamlit</title>
+      <link>//localhost:1313/topics/streamlit/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/streamlit/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nutrition</title>
-      <link>//localhost:55972/topics/nutrition/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/nutrition/</guid>
+      <title>Bayesian Statistics</title>
+      <link>//localhost:1313/topics/bayesian-statistics/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/bayesian-statistics/</guid>
       <description></description>
     </item>
     <item>
-      <title>Open-Source</title>
-      <link>//localhost:55972/topics/open-source/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/open-source/</guid>
+      <title>Climate Modeling</title>
+      <link>//localhost:1313/topics/climate-modeling/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/climate-modeling/</guid>
       <description></description>
     </item>
     <item>
-      <title>Api</title>
-      <link>//localhost:55972/topics/api/</link>
-      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/api/</guid>
+      <title>Data Fusion</title>
+      <link>//localhost:1313/topics/data-fusion/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/data-fusion/</guid>
       <description></description>
     </item>
     <item>
-      <title>Flask</title>
-      <link>//localhost:55972/topics/flask/</link>
-      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/flask/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Packing</title>
-      <link>//localhost:55972/topics/packing/</link>
-      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/packing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>//localhost:55972/topics/python/</link>
-      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mac</title>
-      <link>//localhost:55972/topics/mac/</link>
-      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/mac/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Printing</title>
-      <link>//localhost:55972/topics/printing/</link>
-      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/printing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>//localhost:55972/topics/privacy/</link>
-      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/privacy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scripting</title>
-      <link>//localhost:55972/topics/scripting/</link>
-      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/scripting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lego</title>
-      <link>//localhost:55972/topics/lego/</link>
-      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/lego/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Matlab</title>
-      <link>//localhost:55972/topics/matlab/</link>
-      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/matlab/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mindstorms</title>
-      <link>//localhost:55972/topics/mindstorms/</link>
-      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/mindstorms/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Robotics</title>
-      <link>//localhost:55972/topics/robotics/</link>
-      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/robotics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tribology</title>
-      <link>//localhost:55972/topics/tribology/</link>
-      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:55972/topics/tribology/</guid>
+      <title>Machine Learning</title>
+      <link>//localhost:1313/topics/machine-learning/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/topics/machine-learning/</guid>
       <description></description>
     </item>
   </channel>
