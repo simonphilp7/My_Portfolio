@@ -1,0 +1,9 @@
+# Hugo build directory
+public/
+resources/_gen/
+.hugo_build.lock
+
+# IDE and Editor files
+.idea/
+.DS_Store
+*.swp

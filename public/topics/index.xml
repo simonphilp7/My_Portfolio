@@ -1,68 +1,122 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Topics on Simon Philp</title>
-    <link>//localhost:1313/topics/</link>
-    <description>Recent content in Topics on Simon Philp</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/topics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI Agents</title>
-      <link>//localhost:1313/topics/ai-agents/</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/topics/ai-agents/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chatbot Development</title>
-      <link>//localhost:1313/topics/chatbot-development/</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/topics/chatbot-development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Knowledge Management</title>
-      <link>//localhost:1313/topics/knowledge-management/</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/topics/knowledge-management/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Streamlit</title>
-      <link>//localhost:1313/topics/streamlit/</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/topics/streamlit/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bayesian Statistics</title>
-      <link>//localhost:1313/topics/bayesian-statistics/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/topics/bayesian-statistics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Climate Modeling</title>
-      <link>//localhost:1313/topics/climate-modeling/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/topics/climate-modeling/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data Fusion</title>
-      <link>//localhost:1313/topics/data-fusion/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/topics/data-fusion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine Learning</title>
-      <link>//localhost:1313/topics/machine-learning/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/topics/machine-learning/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Topics on Simon Philp</title>
+		<link>//localhost:1313/topics/</link>
+		<description>Recent content in Topics on Simon Philp</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 03 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/topics/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Embedding Models</title>
+				<link>//localhost:1313/topics/embedding-models/</link>
+				<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/topics/embedding-models/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Natural Language Processing</title>
+				<link>//localhost:1313/topics/natural-language-processing/</link>
+				<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/topics/natural-language-processing/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Open-Source AI</title>
+				<link>//localhost:1313/topics/open-source-ai/</link>
+				<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/topics/open-source-ai/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>RAG</title>
+				<link>//localhost:1313/topics/rag/</link>
+				<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/topics/rag/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>WPP Research</title>
+				<link>//localhost:1313/topics/wpp-research/</link>
+				<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/topics/wpp-research/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>AI Agents</title>
+				<link>//localhost:1313/topics/ai-agents/</link>
+				<pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/topics/ai-agents/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Chatbot Development</title>
+				<link>//localhost:1313/topics/chatbot-development/</link>
+				<pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/topics/chatbot-development/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Knowledge Management</title>
+				<link>//localhost:1313/topics/knowledge-management/</link>
+				<pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/topics/knowledge-management/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Machine Learning</title>
+				<link>//localhost:1313/topics/machine-learning/</link>
+				<pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/topics/machine-learning/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sports Betting</title>
+				<link>//localhost:1313/topics/sports-betting/</link>
+				<pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/topics/sports-betting/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Streamlit</title>
+				<link>//localhost:1313/topics/streamlit/</link>
+				<pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/topics/streamlit/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>XGBoost</title>
+				<link>//localhost:1313/topics/xgboost/</link>
+				<pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/topics/xgboost/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Bayesian Statistics</title>
+				<link>//localhost:1313/topics/bayesian-statistics/</link>
+				<pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/topics/bayesian-statistics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Climate Modeling</title>
+				<link>//localhost:1313/topics/climate-modeling/</link>
+				<pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/topics/climate-modeling/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Data Fusion</title>
+				<link>//localhost:1313/topics/data-fusion/</link>
+				<pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+				<guid>//localhost:1313/topics/data-fusion/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
